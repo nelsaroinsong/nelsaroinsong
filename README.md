@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="center">LIONEL KISRA INJILI</h2>
+<h1 data-importer="text" align="center">LIONEL KISRA INJILI</h1>
 
 ###
 
